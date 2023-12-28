@@ -1,4 +1,4 @@
-![Exp3 fa code](https://github.com/dharshini-29/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474632/e5478558-c9c8-42c0-bb69-15a69b028647)# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Experiment-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
